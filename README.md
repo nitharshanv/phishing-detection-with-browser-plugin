@@ -1,7 +1,24 @@
 # Phishing_Detection
-Client-Server Architecture
-* For client-side - Building Chrome Extension
-* For Server side - Building Django Framework
-
-
-![Slide1](https://github.com/nitharshanv/phishing-detection-with-browser-plugin/assets/115967810/91d77ee5-353f-41db-9f99-053e551851c8)
+![Uploading Slide1.PNG…]()
+![Uploading Slide2.PNG…]()
+![Uploading Slide3.PNG…]()
+![Uploading Slide4.PNG…]()
+![Slide5](https://github.com/nitharshanv/phishing-detection-with-browser-plugin/assets/115967810/68e49816-ee5a-40ee-aeb0-8378c91c0f7e)
+![Uploading Slide6.PNG…]()
+![Slide7](https://github.com/nitharshanv/phishing-detection-with-browser-plugin/assets/115967810/6bc34539-f119-44fb-b19a-fd51665aa186)
+![Slide8](https://github.com/nitharshanv/phishing-detection-with-browser-plugin/assets/115967810/558bbfea-0c12-4f47-9534-c5d7a02516f0)
+![Slide9](https://github.com/nitharshanv/phishing-detection-with-browser-plugin/assets/115967810/476d8e7e-db7b-44cb-89e2-745f3a05a48b)
+![Uploading Slide10.PNG…]()
+![Uploading Slide11.PNG…]()
+![Uploading Slide12.PNG…]()
+![Uploading Slide13.PNG…]()
+![Uploading Slide14.PNG…]()
+![Slide15](https://github.com/nitharshanv/phishing-detection-with-browser-plugin/assets/115967810/f2aa82fe-ab76-4aad-add0-e259852baf79)
+![Uploading Slide16.PNG…]()
+![Uploading Slide17.PNG…]()
+![Slide18](https://github.com/nitharshanv/phishing-detection-with-browser-plugin/assets/115967810/a5a8afc5-0482-4165-87dd-290b91a49d3d)
+![Slide19](https://github.com/nitharshanv/phishing-detection-with-browser-plugin/assets/115967810/20708cc8-d893-4cad-b0bd-12a6794ad938)
+![Uploading Slide20.PNG…]()
+![Uploading Slide21.PNG…]()
+![Uploading Slide22.PNG…]()
+![Uploading Slide23.PNG…]()
